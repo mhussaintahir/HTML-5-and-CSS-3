@@ -1,0 +1,43 @@
+
+
+*{
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue
+{
+    background-color: #1b67c9;
+}
+.pfirstcol
+{
+    background-color: #00b6bc;
+}
+.voilet
+{
+    background-color: #a166a0;
+}
+.red
+{
+    background-color: #f53951;
+}
+
+.staric
+{
+    background-color: #004e75;
+}
+
+.staric2
+{
+    background-color: #572e56;
+}
+.orange
+{
+    background-color: #f36d4a;
+}
+.lightOrange
+{
+    background-color: #f5b659;
+}
