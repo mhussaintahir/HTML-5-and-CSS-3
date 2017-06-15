@@ -1,0 +1,63 @@
+
+*{
+background-color: darkgray;   
+}
+h1,h2,h3,h4,h5,p,ul,li,sup,sapn{
+    background-color: white;
+}
+
+#container
+{
+    background-color: darkmagenta;
+    height: 1000px;
+    width: 800px;
+    border: 3px solid black;
+    margin: 0 auto;
+}
+#LHS
+{
+    background-color: white;
+    height: 900px;
+    width: 400px;
+    border-style: 5px solid black;
+    float: left;
+    
+}
+
+#RHS
+{
+    background-color: white;
+    height: 900px;
+    width: 400px;
+    border-style: 5px solid black;
+    float: left;
+    
+    
+}
+
+#pic
+{
+    background-color: yellow;
+    height: 200px;
+    width: 400px;
+    border-style: 5px solid black;
+    float: left;
+    overflow: scroll;
+    
+}
+div #pic h1
+{
+    font-weight: lighter;
+     font-family:Arial,sans-serif;
+    text-align:center ;
+    font-size: 25px;
+}
+span.bold
+{
+    background-color: white;
+    font-family:Arial,sans-serif;
+
+    font-size: 33px;
+    font-weight: bolder;
+    
+}
